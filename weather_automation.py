@@ -26,10 +26,3 @@ def get_current_date():
     today = date.today()
     formatted_date = today.strftime("%m/%d/%Y")
     return formatted_date
-
-def main():
-    weather_information = get_current_weather("Toms River")
-    print(weather_information)
-
-if __name__ == "__main__":
-    main()
