@@ -3,10 +3,9 @@
 This project, WeatherGUI, provides a simple graphical user interface (GUI) application using Python's tkinter library to display current weather information. It fetches data from the [WeatherAPI](https://www.weatherapi.com) to show real-time weather conditions for a specified city.
 
 <!-- ![gui start screen](images/main.jpg) -->
-<img src="images/main.jpg" alt="gui start screen" width="300">
+<img src="images/main.jpg" alt="gui start screen" width="300"> <img src="images/city_info.jpg" alt="city_info" width="255">
 
 <!-- ![city_info](images/city_info.jpg) -->
-<img src="images/city_info.jpg" alt="city_info" width="300">
 
 ## Features:
 - Displays current date and location based on user input.
