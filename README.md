@@ -1,6 +1,6 @@
 # WeatherGUI
 
-This project, WeatherGUI, provides a simple graphical user interface (GUI) application using Python's tkinter library to display current weather information. It fetches data from the WeatherAPI to show real-time weather conditions for a specified city.
+This project, WeatherGUI, provides a simple graphical user interface (GUI) application using Python's tkinter library to display current weather information. It fetches data from the [WeatherAPI][https://www.weatherapi.com/] to show real-time weather conditions for a specified city.
 
 ## Features:
 - Displays current date and location based on user input.
@@ -9,7 +9,7 @@ This project, WeatherGUI, provides a simple graphical user interface (GUI) appli
 
 ## Components:
 - gui.py: Contains the tkinter-based GUI code to interact with users and display weather information.
-- weather_automation.py: Handles API requests and data parsing using the WeatherAPI to fetch current weather details.
+- weather_automation.py: Handles API requests and data parsing using the [WeatherAPI][https://www.weatherapi.com/] to fetch current weather details.
 
 ## How to Use:
 - Run gui.py.
