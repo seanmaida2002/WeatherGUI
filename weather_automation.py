@@ -1,8 +1,10 @@
 import requests
 from datetime import date
-import webbrowser
+from dotenv import load_dotenv
+load_dotenv()
+import os
 
-API_KEY = "f2b9b2f8c6254f99bdf184813251305"
+API_KEY = os.getenv("WEATHER_API_KEY")
 API_URL= "http://api.weatherapi.com/v1/forecast.json"
 
 
