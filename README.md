@@ -21,3 +21,11 @@ This project, WeatherGUI, provides a simple graphical user interface (GUI) appli
 - tkinter
 - Pillow (PIL)
 - requests
+
+## 🔐 API Key Setup
+
+This app requires an API key from [WeatherAPI](https://www.weatherapi.com/) to fetch weather data.
+
+1. Sign up at [weatherapi.com](https://www.weatherapi.com/) to get your free API key.
+2. In the root of the project, create a file named `.env`.
+3. Add this line to the `.env` file: WEATHER_API_KEY=your_api_key_here
