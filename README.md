@@ -22,7 +22,7 @@ This project, WeatherGUI, provides a simple graphical user interface (GUI) appli
 - Click "Submit" to display weather details including date, location, weather condition, temperature, and an icon representing the weather.
 
 ## Dependencies:
-- Python 3.x
+- Python 3
 - tkinter
 - Pillow (PIL)
 - requests
